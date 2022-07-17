@@ -4,7 +4,7 @@
 ![Badge](https://img.shields.io/badge/powered%20by-p5.JS-red?style=for-the-badge&logo=appveyor)
 
 # Pong
-Sou estudante da [Alura](https://www.alura.com.br/) e estou utilizando esse projeto do curso de Jogos Clássicos (onde desevolvemos do zero o clássico jogo Pong, através do editor [p5 JS](https://p5js.org/)), para fazer minha primeira publicação no GitHub. Estou aprendendo a utilizar a plataforma e dicas são bem-vindas!! Todos os arquivos estão linkados, incluindo os arquivos mp3, caso você queira anexá-los em seu editor p5 JS. [Clique aqui](https://editor.p5js.org/igorbenitez/full/PDZw376uW) para jogar o jogo. #AprendiNaAlura
+Sou estudante da [Alura](https://www.alura.com.br/) e estou utilizando esse projeto do curso de Jogos Clássicos (onde desenvolvemos do zero o clássico jogo Pong, através do editor [p5 JS](https://p5js.org/)), para fazer minha primeira publicação no GitHub. Estou aprendendo a utilizar a plataforma e dicas são bem-vindas!! Todos os arquivos estão linkados, incluindo os arquivos mp3, caso você queira anexá-los em seu editor p5 JS. [Clique aqui](https://editor.p5js.org/igorbenitez/full/PDZw376uW) para jogar o jogo. #AprendiNaAlura
 
 
 ## :tennis: Funcionalidades do projeto

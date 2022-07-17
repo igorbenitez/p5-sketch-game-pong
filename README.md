@@ -1,103 +1,37 @@
-![Pongo (1)](https://user-images.githubusercontent.com/106933288/179382119-fdcd8822-6aaa-4d03-a467-c2091fcab979.png)
-## Pong
+![1](https://user-images.githubusercontent.com/106933288/179403634-0d382c2b-7cb5-4577-8b8e-a48cbcd8f66b.png)
 
-Template para personalizar readme dos projetos da [Alura](https://www.alura.com.br/). O objetivo deste template é auxiliar as pessoas que pretendem criar readmes mais informativos e descritivos. Considere esse modelo como base, mas se preferir, ajuste os detalhes conforme sua necessidade e caso queira, [confira esse artigo que ensina a personalizar readmes em geral](https://www.alura.com.br/artigos/escrever-bom-readme).
+![Badge em Desenvolvimento](https://img.shields.io/github/license/paduki/p5-sketch-game-pong?style=for-the-badge)
+![Badge](https://img.shields.io/badge/powered%20by-p5.JS-red?style=for-the-badge&logo=appveyor)
 
-## Exemplos de readmes
+# Pong
+Sou estudanta da [Alura](https://www.alura.com.br/) e estou utilizando esse projeto do curso de Jogos Clássicos, onde recriamos o clássico jogo Pong, através do editor [p5*JS](https://p5js.org/), para fazer minha primeira publicação no GitHub, estou aprendendo a utilizar a plataforma e dicas são bem-vindas!! Todos os arquivos estão linkados, incluindo os arquivos mp3, caso queira anexa-los em seu editor p5 JS. [Clique aqui](https://editor.p5js.org/igorbenitez/full/PDZw376uW) para jogar o jogo.
 
-<details>
-
-  <summary><b>Mobile</b></summary>
-
-    
-- [Android](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md)
-- [React Native](https://github.com/alura-cursos/react-native-comecando-do-zero/blob/main/README.md)
-- [Flutter](https://github.com/alura-cursos/flutter-nuvigator/blob/start/README.md)
-</details>
-
-<details>
-  <summary><b>Front-end</b></summary>
-    
-- [JavaScript](https://github.com/vanessametonini/aluramidi-curso/blob/master/README.md) 
-</details>
-
-<details>
-  <summary><b>Programação</b></summary>
-  
-- [Kotlin](https://github.com/alura-cursos/kotlin-introducao-orientacao-a-objetos/blob/main/README.md)
-- [Java](https://github.com/gui-lirasilva/Edige-POO/blob/master/README.md)
-  
-</details>
-
-Ao criar o seu readme, remova todas as informações acima e mantenha apenas a imagem de capa e o conteúdo restante a partir do título **"Nome do projeto"**.
-
-## Imagem de capa
-
-Adicione a imagem de capa com o tema do seu projeto:
-
-![Thumbnail GitHub](https://user-images.githubusercontent.com/8989346/123303345-171fc980-d4f4-11eb-84ae-cb0e49bfb126.png)
-
-> Você pode pegar a imagem a partir [deste template](https://docs.google.com/presentation/d/1im_-_spDdNEEsfrmjeZet2ZzVKjG-sQSBWfPFJhZ4q0/edit#slide=id.gb6f422ab58_0_111).
-> Ou gerar neste [site](https://alura-github-thumbnail-generator.vercel.app/).
-Após adicionar a imagem, também modifique as configurações do projeto para garantir que a imagem vai ser carregada como thumbnail:
-
-**Settings** > **Options** > **Social preview** > **Edit** > **Upload an image...**
-
-<details>
-  <summary><b>Demonstração da adição de thumbnail<b/></summary>
-    
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
-    
-</details>
-  
-# Nome do projeto
-
-Descreva o que é o projeto e o que ele faz
 
 ## 🔨 Funcionalidades do projeto
 
-Indique quais são as funcionalidades e comportamentos do App
+Gameplay do jogo Pong, modo singleplayer
 
-Se possível, apresente um exemplo visual do projeto, seja gif, imagens ou vídeo, abaixo segue um exemplo:
-
-![](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/raw/master/img/amostra.gif)
+![pong](https://user-images.githubusercontent.com/106933288/179382097-8a286b81-1d5a-4cff-b28b-0cfcb118eeb1.gif)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-**Faça uma lista de tecnologias e técnicas utilizadas (a justificativa e descrição são opcionais)**:
-
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-  - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `P5 JS`
+- `HTML`
+- `Java Script`
 
 ## 📁 Acesso ao projeto
 
-**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+Para acessar o código fonte do projeto, [clique aqui](https://editor.p5js.org/igorbenitez/sketches/PDZw376uW)
 
 ## 🛠️ Abrir e rodar o projeto
 
 **Apresente as instruções necessárias para abrir e executar o projeto**
 
+https://editor.p5js.org/igorbenitez/full/PDZw376uW
+
 ## 📚 Mais informações do curso
 
 **Faça um CTA (_call to action_) para o curso do projeto**
-
-
-
-gif do projeto 
-  ![pong](https://user-images.githubusercontent.com/106933288/179382097-8a286b81-1d5a-4cff-b28b-0cfcb118eeb1.gif)
-
-
-
-
-
-
-
-
-
-
-<h1> Pong </h1>
 
 
 

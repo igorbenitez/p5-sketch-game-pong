@@ -4,45 +4,32 @@
 ![Badge](https://img.shields.io/badge/powered%20by-p5.JS-red?style=for-the-badge&logo=appveyor)
 
 # Pong
-Sou estudanta da [Alura](https://www.alura.com.br/) e estou utilizando esse projeto do curso de Jogos Clássicos, onde recriamos o clássico jogo Pong, através do editor [p5*JS](https://p5js.org/), para fazer minha primeira publicação no GitHub, estou aprendendo a utilizar a plataforma e dicas são bem-vindas!! Todos os arquivos estão linkados, incluindo os arquivos mp3, caso queira anexa-los em seu editor p5 JS. [Clique aqui](https://editor.p5js.org/igorbenitez/full/PDZw376uW) para jogar o jogo.
+Sou estudante da [Alura](https://www.alura.com.br/) e estou utilizando esse projeto do curso de Jogos Clássicos (onde desevolvemos do zero o clássico jogo Pong, através do editor [p5 JS](https://p5js.org/)), para fazer minha primeira publicação no GitHub. Estou aprendendo a utilizar a plataforma e dicas são bem-vindas!! Todos os arquivos estão linkados, incluindo os arquivos mp3, caso você queira anexá-los em seu editor p5 JS. [Clique aqui](https://editor.p5js.org/igorbenitez/full/PDZw376uW) para jogar o jogo. #AprendiNaAlura
 
 
-## 🔨 Funcionalidades do projeto
+## :tennis: Funcionalidades do projeto
 
 Gameplay do jogo Pong, modo singleplayer
 
 ![pong](https://user-images.githubusercontent.com/106933288/179382097-8a286b81-1d5a-4cff-b28b-0cfcb118eeb1.gif)
 
-## ✔️ Técnicas e tecnologias utilizadas
 
-- `P5 JS`
+## :computer: Técnicas e tecnologias utilizadas
+
+- `P5 JS Editor`
 - `HTML`
 - `Java Script`
 
-## 📁 Acesso ao projeto
-
-Para acessar o código fonte do projeto, [clique aqui](https://editor.p5js.org/igorbenitez/sketches/PDZw376uW)
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+Infelizmente eu encontrei dificuldades em fazer o projeto funcionar em outro editor (como o VS Code por exemplo), portanto é necessário o p5 JS Editor para abri-lo.
+Sendo assim, basta acessar o link-> https://editor.p5js.org/igorbenitez/full/PDZw376uW para jogar o Pong e ver o projeto rodando.
 
-https://editor.p5js.org/igorbenitez/full/PDZw376uW
-
-## 📚 Mais informações do curso
-
-**Faça um CTA (_call to action_) para o curso do projeto**
+Caso queira acessar o código do projeto acesse o link-> https://editor.p5js.org/igorbenitez/sketches/PDZw376uW e será encaminhado ao editor p5 JS.
 
 
+## 📚 Mais informações 
 
-
-Descrição do seu projeto;
-Funcionalidades;
-Como os usuários podem utilizá-lo;
-Onde os usuários podem encontrar ajuda sobre seu projeto;
-Autores do projeto.
-
-
-
-link para codigo: https://editor.p5js.org/igorbenitez/sketches/PDZw376uW
-link para jogo: https://editor.p5js.org/igorbenitez/full/PDZw376uW
+Caso queira saber mais sobre a fonte do projeto, basta acessar o [Curso de
+Jogos clássicos parte 1: Pong com Javascript](https://cursos.alura.com.br/course/pong-javascript), mestrado pelo professor Guilherme Lima, no site da Alura.
